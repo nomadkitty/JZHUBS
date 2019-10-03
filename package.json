@@ -1,0 +1,26 @@
+{
+  "name": "JZHUBS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadkitty/JZHUBS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadkitty/JZHUBS/issues"
+  },
+  "homepage": "https://github.com/nomadkitty/JZHUBS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "nodemon": "^1.19.3"
+  }
+}
